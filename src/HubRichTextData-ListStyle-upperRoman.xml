@@ -1,0 +1,27 @@
+<richText><TextFlow fontFamily="Serif" fontLookup="embeddedCFF" fontSize="24" fontWeight="normal" textAlign="justify" whiteSpaceCollapse="preserve" version="3.0.0">
+  <p>
+    <span>The following is a list of things:</span>
+  </p>
+  <list listStyleType="upperRoman">
+    <li>
+      <p>
+        <span>Apples, a delicious fruit that is picked from a tree.</span>
+      </p>
+    </li>
+    <li>
+      <p>
+        <span>Peaches,&#8194;another&#8194;fruit&#8194;that&#8194;is&#8194;also&#8194;very&#8194;tasty!</span>
+      </p>
+    </li>
+    <li>
+      <p>
+        <span>Peanut&#8194;butter,&#8194;made&#8194;from&#8194;peanuts,&#8194;is&#8194;great&#8194;to&#8194;spread&#8194;on&#8194;sandwiches.</span>
+      </p>
+    </li>
+    <li>
+      <p>
+        <span>Olives&#8194;have&#8194;a&#8194;variety&#8194;of&#8194;purposes,&#8194;and&#8194;are&#8194;an&#8194;important&#8194;ingredient&#8194;of&#8194;olive&#8194;oil.</span>
+      </p>
+    </li>
+  </list>
+</TextFlow></richText>

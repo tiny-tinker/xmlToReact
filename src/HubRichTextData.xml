@@ -1,0 +1,29 @@
+<richText><TextFlow fontFamily="Serif" fontLookup="embeddedCFF" fontSize="24" fontWeight="normal" textAlign="justify" whiteSpaceCollapse="preserve" version="3.0.0">
+  <p>
+    <span>This page is intended to test whether text is sized correctly relative to the shape or area behind it.&#8194;&#8194;</span>
+  </p>
+  <p>
+    <span></span>
+  </p>
+  <p>
+    <span>For example,&#8194;</span>
+    <span fontStyle="italic">this</span>
+    <span>&#8194;paragraph is&#8194;</span>
+    <span fontStyle="italic">rich text</span>
+    <span>.  In&#8194;many&#8194;cases,&#8194;if&#8194;there&#8194;is&#8194;a&#8194;lot&#8194;of&#8194;text&#8194;then&#8194;it&#8194;is&#8194;difficult&#8194;to&#8194;keep&#8194;the&#8194;words&#8194;looking&#8194;the&#8194;same&#8194;on&#8194;various&#8194;platforms.&#8194;&#8194;&#8194;This&#8194;paragraph&#8194;is&#8194;right &amp; left justified.</span>
+  </p>
+  <p>
+    <span></span>
+  </p>
+  <p textAlign="left">
+    <span fontSize="29" fontWeight="bold">Other&#8194;paragraphs&#8194;may&#8194;be bold, or&#8194;left&#8194;justified,&#8194;like&#8194;this&#8194;paragraph.&#8194;&#8194;&#8194;That&#8194;may&#8194;change&#8194;how&#8194;many&#8194;words&#8194;fit&#8194;on&#8194;a&#8194;particular&#8194;line.</span>
+  </p>
+  <p>
+    <span></span>
+  </p>
+  <p textAlign="right">
+    <span>Some&#8194;paragraphs,&#8194;like&#8194;this&#8194;one,&#8194;may&#8194;be&#8194;right&#8194;justified.&#8194;&#8194;&#8194;That&#8194;will&#8194;also&#8194;change&#8194;how&#8194;many&#8194;words&#8194;fit&#8194;on&#8194;a&#8194;particular&#8194;line.&#8194;&#8194;&#8194;It&#8194;can&#8194;be&#8194;tricky&#8194;to&#8194;get&#8194;this&#8194;to&#8194;work&#8194;</span>
+    <span fontStyle="italic">correctly</span>
+    <span>!</span>
+  </p>
+</TextFlow></richText>
